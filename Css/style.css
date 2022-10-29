@@ -1,0 +1,316 @@
+.general {
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+
+.contenedor1 {
+    background-color: rgb(155,156,160);
+    color: rgb(211,212,214);
+    display: block;
+    
+}
+
+.flex-container {
+    display: flex;
+}
+
+
+h2 {
+    text-indent: 180px;
+    color: rgb(249, 249, 250);
+    font-family:'Satisfy';
+}
+
+.menu1 {
+    text-indent: 900px;
+       
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(235, 236, 238)
+}
+
+.menu2 {
+    text-align: center;
+}
+
+hr {
+      
+    border-color: rgb(175, 175, 175);
+    width: 50%;
+    text-align:center
+    
+}
+
+#hr1 {
+    width: 1500px;
+    
+    
+}
+
+h1 {
+    color: rgb(240,247,240);
+    text-align: center;
+    font-size: 30px;
+   
+    
+}
+
+h5 {
+    text-align: center;
+}
+
+
+
+.contenedor2 {
+    background-color: rgb(212,212,212);
+    padding: 50px;
+    
+   
+    
+
+}
+
+
+
+.contenedor-imagen {
+    display: flex;
+    
+    justify-content:space-around
+    flex-direction: row;
+    
+  
+    
+}
+
+.imagen {
+    
+    width: 50px;
+    height: 50%px;
+    margin: 0%;
+    background-color: rgb(240, 240, 240);
+    border-radius: 100px 100px;
+    border: solid;  
+    padding: 0%;
+   
+    
+}
+
+
+
+.prueba {
+    border-color:  rgb(155,156,160);
+    margin: auto;
+    text-align:center
+    
+}
+
+
+.columnas {
+    display: flex;
+    background-color: rgb(212,212,212);
+    
+    
+    
+}
+
+.caja1 {
+    text-align: center;
+}
+
+.caja2 {
+    text-align: center;
+}
+
+.caja3 {
+    text-align: center;
+}
+
+.caja4 {
+    text-align: center;
+}
+
+.leer-mas {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(212,212,212);
+    padding: 50px;
+    
+       
+}
+
+.leermas1 {
+    text-align: center;
+    background-color:  rgb(155,156,160);
+    border-radius: 100px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-family: 'Lobster Two', cursive;
+    
+}
+
+
+.leermas2 {
+    text-align: center;
+    background-color:  rgb(155,156,160);
+    border-radius: 100px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-family: 'Lobster Two', cursive;
+    
+
+}
+
+.leermas3 {
+    text-align: center;
+    background-color:  rgb(155,156,160);
+    border-radius: 100px;
+    width:  100px;
+    height: 30px;
+    color: white;
+    font-family: 'Lobster Two', cursive;
+}
+
+.leermas4 {
+    text-align: center;
+    background-color:  rgb(155,156,160);
+    border-radius: 100px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-family: 'Lobster Two', cursive;
+}
+
+
+.contenedor3 {
+    display: flex;
+    
+    
+}
+
+.cuadrado {
+    width: 150px;
+    margin: 50px;
+    text-align: center;
+}
+
+.cuadrado1 {
+    text-align: center;
+}
+
+.cuadrado2 {
+    text-align: center;
+}
+
+.cuadrado3 {
+    text-align: center;
+}
+
+.parrafo {
+    text-align: center;
+    font-size: small;
+}
+
+.portafolio {
+    text-align:start;
+    width: 200px;
+    margin: 50px;
+    
+}
+
+
+.contenedor4 {
+    display: flex;
+   
+}
+
+.contenedor4 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.especia0 {
+    display: flex;
+    text-align: start;
+    
+    
+}
+
+.especial1 {
+    display: flex;
+    
+    font-size: small;
+    text-align:left;
+    margin: 10px;
+}
+
+.especial2 {
+    display: block;
+    font-size: small;
+    width: 300px;
+
+}
+
+.especial3 {
+    display:block;
+    width: 300px;
+    font-size: small;
+}
+
+.cuadrado-negro {
+    width: 50px;
+}
+
+
+.menufinal {
+    text-align: end;
+    
+    
+    
+}
+
+.link2 {
+    text-decoration: none;
+    color: gray;
+    
+
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
